@@ -1,5 +1,14 @@
 # Installing and Setting Up Keycloak with Spring Boot
 
+## Endpoints
+Admin:
+[GET] http://localhost:8081/api/admin
+Authorization - Bearer Token with admin privileges
+
+User:
+[GET] http://localhost:8081/api/user
+Authorization - Bearer Token with user privileges
+
 ## Download and Installation
 
 1. **Download Keycloak:**
