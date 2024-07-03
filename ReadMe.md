@@ -50,7 +50,12 @@ Authorization - Bearer Token with user privileges
       - Create a client (e.g., `springboot-demo-keycloak-client`).
       - Configure roles (`admin` and `user`).
       - Add users and assign roles to them.
+## Keycloak Setting Images
 
+![logo](https://github.com/ajaykumar070014/Spring-Boot-Keycloak-Integration/blob/Main/images/1a.png)
+![logo](https://github.com/ajaykumar070014/Spring-Boot-Keycloak-Integration/blob/Main/images/1.png)
+![logo](https://github.com/ajaykumar070014/Spring-Boot-Keycloak-Integration/blob/Main/images/2.png)
+![logo](https://github.com/ajaykumar070014/Spring-Boot-Keycloak-Integration/blob/Main/images/3.png)
 ## Configuring Your Spring Boot Application
 
 6. **Configure Your Spring Boot Application:**
